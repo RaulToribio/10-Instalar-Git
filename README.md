@@ -1,5 +1,3 @@
-# 10-Instalar-Git
-
 # Introducción
 
 Git es un sistema de control de versiones de software libre y de código abierto. Fue creado en 2005 por Linus Torvalds, el creador del sistema operativo Linux. Git permite llevar un registro de los cambios en los archivos de un proyecto, lo que permite a los desarrolladores revertir cambios, trabajar en diferentes versiones de un proyecto al mismo tiempo y colaborar con otros desarrolladores en proyectos compartidos.
