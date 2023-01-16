@@ -32,10 +32,6 @@ Confirmar la operación escribiendo “*Y”.*
 
 Se habrá instalado Git.
 
-# Evidencias
-
-![https://raw.githubusercontent.com/RaulToribio/10-Instalar-Git/main/Im%C3%A1genes/Instalar%20Git%20(4).png](https://raw.githubusercontent.com/RaulToribio/10-Instalar-Git/main/Im%C3%A1genes/Instalar%20Git%20(4).png)
-
 # Créditos
 
 > [José Raúl Toribio Gabriel](https://github.com/RaulToribio)
